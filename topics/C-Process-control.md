@@ -1,5 +1,5 @@
 # Process control
-## Components
+## Introduction
 A process is the abstraction used by UNIX to represent a running program. It is the object through which a program’s use of memory, processor time, and I/O resources can be managed and monitored.
 
 It is part of the UNIX philosophy that as much work as possible be done within the context of processes, rather than handled specially by the kernel. Although portions of the kernel cannot be made to fit this model, it is used by most system software. System and user processes all follow the same rules so that you can use a single set of tools to control them both
