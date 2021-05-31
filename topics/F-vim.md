@@ -102,8 +102,8 @@ Commands work in normal mode, unless specified explicitly.
 | :-----------                | :-----------------------                       |
 | `x`                         | save and exit                                   |
 | `w`                         | save                                           |
-| `q`                         | save exit |
-| `q!`                         | save exit and disregard changes |
+| `q`                         | safe exit |
+| `q!`                         | exit and disregard changes |
 
 ## Using Visual mode
 | Key                         | Action                                         |
