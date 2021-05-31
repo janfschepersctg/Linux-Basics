@@ -1,4 +1,11 @@
-# ACCESS CONTROL
+# Access control
+## Introduction
+As a system administrator, you are probably spending quite some time configuring permissions for user and groups on your system.
+File permissions are already quite handy in order to give read, write or execute permissions to directories or files.
+But what if we need a more precise way to give permissions to folders or files?
+What if I want to give access to a file to a specific user or a specific group, that is not the current owner of the file?
+This is exactly what access control lists, also shortened ACL, are solving on a Linux system.
+
 ## General principles of access control
 - access control depends on which user or group is attempting to perform and operation
 - Objects (files and processes) have owners
@@ -84,3 +91,4 @@ For a detailed guide how to modify the sudoers file: https://www.garron.me/en/li
 - https://www.poftut.com/linux-sudo-command-tutorial-with-examples-to-get-root-privileges/
 - https://www.linux.com/training-tutorials/understanding-linux-file-permissions/
 - Unix and linux system administration handbook
+- https://devconnected.com/access-control-lists-on-linux-explained/
