@@ -50,4 +50,3 @@ On your working machine, make sure you have installed recent versions of:
 - [Bert Van Vreckem](https://github.com/bertvv/): Maintainer of the vagrant skeleton on which this project is based.
 - All the people who took their time writing the resources I've been copying. In each topic, you'll find the relevant source url's.
 
-
