@@ -1,4 +1,11 @@
 # site.yml
 ---
 - hosts: all
-  roles: []
+  tasks:
+    - yum:
+        name:
+          - git
+          - nano
+          - vim
+          - unzip
+        state: present

@@ -3,7 +3,7 @@
 Try to find the hidden word in this exercise. 
 Clone the repo in `srv01` and follow the instructions described in the README.
 
-url: `https://github.com/krother/bash_tutorial`
+url: [click here](https://github.com/krother/bash_tutorial)
 
 ## Systemd
 1) create a `sleep.service` (note: look up where service files are located)
