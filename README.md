@@ -12,6 +12,7 @@ I'm hoping this repository can be useful throughout the start of your Linux jour
 
 ## Topics
 For each topic, I've search the internet of relevant sources and bundled them together (...so you don't have to)!
+
 0. [Linux](topics/00-Linux.md) / [Linux administrator](topics/01-linux-administrator.md)
 1. [Systemd](topics/A-Systemd.md)
 2. [Access control](topics/B-Access-control.md)
